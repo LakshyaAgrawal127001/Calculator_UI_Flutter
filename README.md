@@ -6,4 +6,4 @@ I just created a simple calculator UI using Flutter, and it was a blast! 😊 Us
 
 # Calculator v1
 "I just created a simple calculator UI using Flutter, and it was a blast! 😊 Leveraging Flutter's powerful widgets such as Row, Column, SizedBox, Wrap, TextButton, Text, and styling features, I was able to craft a sleek and functional user interface in no time."<br>
-![image](https://github.com/LakshyaAgrawal127001/Calculator_UI_Flutter/assets/111519650/309aa432-396d-496d-a59c-ef1da68cf170)
+<br> ![image](https://github.com/LakshyaAgrawal127001/Calculator_UI_Flutter/assets/111519650/309aa432-396d-496d-a59c-ef1da68cf170)
